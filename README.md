@@ -5,8 +5,15 @@
 
 ## Code and Resourcs Used
 **Python version:** 3.8
+
 **Packages:** statsmodel, pmdarima, sklearn, pandas, numpy, matplotlib, seaborn
 
 ## Data Preprocessing
 Extracted the date and time columns, set "datetime" as index, and only kept features that are most relevant:
-* 
+* PM2.5
+* SO2
+* NO2
+* CO
+* O3
+* TEMP
+* RAIN
