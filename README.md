@@ -72,3 +72,7 @@ ARIMA does a pretty good job, however, it seems that it doesn't take into accoun
 
 ![](images/ARIMA.png)  ![](images/SARIMAX.png)
 
+## Model Performance
+SARIMAX model far outperformed the ARIMA model
+* ARIMA: RMSE: 64.7
+* SARIMAX: RMSE: 3.5
