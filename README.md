@@ -65,3 +65,6 @@ Then, I resampled the dataset to monthly frequency for the purpose of prediction
 
 ![](images/monthly_SO2.png)
 
+I tried 2 different models and evaluated them using Root Mean Square Error
+* ARIMA
+* SARIMAX
