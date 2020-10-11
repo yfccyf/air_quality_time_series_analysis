@@ -17,3 +17,5 @@ Extracted the date and time columns, set "datetime" as index, and only kept feat
 * O3
 * TEMP
 * RAIN
+
+## Feature Engineering
