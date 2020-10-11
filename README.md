@@ -57,3 +57,11 @@ Seasonality of the 2 target variables
 ![](images/seasonality_SO2.png) ![](images/seasonality_PM2.5.png)
 
 ## Model Building
+First, I performed the augmented Dickey-Fuller test on the 2 variables to test the stationarity of the dataset. Since both variables are stationary, no further transformations are needed
+
+![](images/adf.png)
+
+Then, I resampled the dataset to monthly frequency for the purpose of prediction
+
+![](images/monthly_SO2.png)
+
