@@ -19,3 +19,5 @@ Extracted the date and time columns, set "datetime" as index, and only kept feat
 * RAIN
 
 ## Feature Engineering
+### Missing values
+Every feature includes missing values, however, almost all are under 5%:
