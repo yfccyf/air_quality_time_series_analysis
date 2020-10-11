@@ -21,3 +21,11 @@ Extracted the date and time columns, set "datetime" as index, and only kept feat
 ## Feature Engineering
 ### Missing values
 Every feature includes missing values, however, almost all are under 5%:
+
+![](images/missing_values.png)
+#### **Imputation strategy**
+With a slight presence of trend and a clear presence of seasonality, I decided to use a seasonal adjusted linear interpolation method
+
+## EDA
+### Distribution
+Certain variables are extremely skewed
