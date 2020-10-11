@@ -31,7 +31,7 @@ With a slight presence of trend and a clear presence of seasonality, I decided t
 Certain variables are extremely skewed:
 
 ![](images/SO2_boxplot.png)
-
+### Correlation
 However, after checking correlations among varaibles, I found that when a group of variables can get extreme when weather gets extreme, which is not entirely ususual in Beijing
 
 (when SO2 or O3 are excessive)
