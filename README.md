@@ -28,4 +28,5 @@ With a slight presence of trend and a clear presence of seasonality, I decided t
 
 ## EDA
 ### Distribution
-Certain variables are extremely skewed
+Certain variables are extremely skewed:
+![](images/SO2_boxplot.png)
