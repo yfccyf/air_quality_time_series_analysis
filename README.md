@@ -50,5 +50,9 @@ SO2 and CO have a very strong correlation
 
 ![](images/SO2&CO.png)
 
-Since the air pollutants all have very strong correlation, I decided to predict only the SO2 value
+Since most air pollutants all have very strong correlation, I decided to predict only the SO2 and PM2.5 values
 
+Seasonality of the 2 variabels
+![](images/seasonality_SO2.png) ![](images/seasonality_PM2.5.png)
+
+## Model Building
