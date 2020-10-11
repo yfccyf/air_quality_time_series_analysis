@@ -32,7 +32,8 @@ Certain variables are extremely skewed:
 
 ![](images/SO2_boxplot.png)
 
-###### However, after checking correlations among varaibles, I found that when a group of variables can get extreme when weather gets extreme, which is not entirely ususual in Beijing
-###### (when SO2 or O3 are excessive)
+However, after checking correlations among varaibles, I found that when a group of variables can get extreme when weather gets extreme, which is not entirely ususual in Beijing
 
-![](images/SO2_boxplot.png)
+(when SO2 or O3 are excessive)
+
+![](images/corr.png)
