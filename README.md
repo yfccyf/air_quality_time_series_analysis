@@ -37,3 +37,18 @@ However, after checking correlations among varaibles, I found that when a group 
 (when SO2 or O3 are excessive)
 
 ![](images/corr.png)
+### Among features
+SO2 and temperature have a strong negative correlation
+
+![](images/SO2&temp.png)
+
+PM2.5 does not have a strong correlation with temperature and no clear seasonality either
+
+![](images/PM2.5&temp.png)
+
+SO2 and CO have a very strong correlation
+
+![](images/SO2&CO.png)
+
+Since the air pollutants all have very strong correlation, I decided to predict only the SO2 value
+
