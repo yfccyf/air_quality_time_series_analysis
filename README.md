@@ -5,7 +5,6 @@
 
 ## Code and Resourcs Used
 **Python version:** 3.8
-
 **Packages:** statsmodel, pmdarima, sklearn, pandas, numpy, matplotlib, seaborn
 
 ## Data Preprocessing
