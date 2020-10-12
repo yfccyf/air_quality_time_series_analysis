@@ -68,6 +68,7 @@ Then, I resampled the dataset to monthly frequency for the purpose of prediction
 I tried 2 different models and evaluated them using Root Mean Square Error
 * ARIMA
 * SARIMAX
+
 ARIMA does a pretty good job, however, it seems that it doesn't take into account of the seasonality; after taking into consideration of the seasonality, the prediction made by SARIMAX model makes more sense
 
 ![](images/ARIMA.png)  ![](images/SARIMAX.png)
