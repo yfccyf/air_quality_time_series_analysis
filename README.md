@@ -9,7 +9,7 @@
 **Packages:** statsmodel, pmdarima, sklearn, pandas, numpy, matplotlib, seaborn
 
 ## Data Overview
-Air polluants and weather data in a period of over 4 years recorded in hourly frequency
+Air polluants and weather data in a period of over 4 years recorded in hourly frequency (After cleaning and feature selection)
 
 ![](images/df_head.png)
 
