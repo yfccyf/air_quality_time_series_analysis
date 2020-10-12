@@ -8,6 +8,11 @@
 
 **Packages:** statsmodel, pmdarima, sklearn, pandas, numpy, matplotlib, seaborn
 
+## Data Overview
+Air polluants and weather data in a period of over 4 years recorded in hourly frequency
+
+![](images/df_head.png)
+
 ## Data Preprocessing
 Extracted the date and time columns, set "datetime" as index, and only kept features that are most relevant:
 * PM2.5
