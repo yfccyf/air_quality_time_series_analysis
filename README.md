@@ -3,6 +3,8 @@
 * Engineered time series missing data using "seasonal adjustment + linear interpolation" imputation method
 * Performed time series prediction using the SARIMAX model
 
+![](images/blue_sky.png)
+
 ## Code and Resourcs Used
 **Python version:** 3.8
 
